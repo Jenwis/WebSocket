@@ -25,3 +25,15 @@ proguard/
 
 # Log Files
 *.log
+*.iws
+*.ipr
+.idea/*
+.gradle/*
+*/src/main/gen/
+local.properties
+*.iml
+*/build/
+build/
+out
+*.swp
+*/obj
